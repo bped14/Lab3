@@ -1,3 +1,3 @@
-Name: Brandon Pedrianes
+Brandon Pedrianes
 
 Assignment: Lab3
